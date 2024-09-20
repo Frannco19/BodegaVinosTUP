@@ -1,0 +1,6 @@
+@BodegaDeVinosProyect_HostAddress = http://localhost:5210
+
+GET {{BodegaDeVinosProyect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
