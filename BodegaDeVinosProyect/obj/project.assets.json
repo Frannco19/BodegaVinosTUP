@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acuqu\\source\\repos\\BodegaDeVinosProyect\\BodegaDeVinosProyect\\BodegaDeVinosProyect.csproj",
+      "projectUniqueName": "C:\\Users\\acuqu\\source\\repos\\BodegaVinosTUP\\BodegaDeVinosProyect\\BodegaDeVinosProyect.csproj",
       "projectName": "BodegaDeVinosProyect",
-      "projectPath": "C:\\Users\\acuqu\\source\\repos\\BodegaDeVinosProyect\\BodegaDeVinosProyect\\BodegaDeVinosProyect.csproj",
+      "projectPath": "C:\\Users\\acuqu\\source\\repos\\BodegaVinosTUP\\BodegaDeVinosProyect\\BodegaDeVinosProyect.csproj",
       "packagesPath": "C:\\Users\\acuqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acuqu\\source\\repos\\BodegaDeVinosProyect\\BodegaDeVinosProyect\\obj\\",
+      "outputPath": "C:\\Users\\acuqu\\source\\repos\\BodegaVinosTUP\\BodegaDeVinosProyect\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

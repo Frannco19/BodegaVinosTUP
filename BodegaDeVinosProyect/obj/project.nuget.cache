@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrVqtuUTGpo=",
+  "dgSpecHash": "skoU96yuFZE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\acuqu\\source\\repos\\BodegaDeVinosProyect\\BodegaDeVinosProyect\\BodegaDeVinosProyect.csproj",
+  "projectFilePath": "C:\\Users\\acuqu\\source\\repos\\BodegaVinosTUP\\BodegaDeVinosProyect\\BodegaDeVinosProyect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acuqu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\acuqu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
