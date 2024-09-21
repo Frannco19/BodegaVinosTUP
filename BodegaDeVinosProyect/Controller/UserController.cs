@@ -15,7 +15,6 @@ namespace BodegaDeVinosProyect.Controller
             _userService = userService;
         }
 
-        // Endpoint para crear un usuario
         [HttpPost]
         public IActionResult CreateUser([FromBody] User user)
         {
@@ -25,7 +24,6 @@ namespace BodegaDeVinosProyect.Controller
             return CreatedAtAction(nameof(GetUserById), new { id = user.Id }, user);
         }
 
-        // Endpoint para obtener un usuario por ID (opcional)
         [HttpGet("{id}")]
         public ActionResult<User> GetUserById(int id)
         {

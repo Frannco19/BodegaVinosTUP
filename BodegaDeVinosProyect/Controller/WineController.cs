@@ -14,7 +14,6 @@ namespace BodegaDeVinosProyect.Controller
             _wineService = wineService;
         }
 
-        // Endpoint para registrar nuevos vinos
         [HttpPost]
         public IActionResult RegisterWine([FromBody] Wine wine)
         {
@@ -24,7 +23,6 @@ namespace BodegaDeVinosProyect.Controller
             return CreatedAtAction(nameof(GetWineById), new { id = wine.Id }, wine);
         }
 
-        // Endpoint para consultar el inventario de vinos
         [HttpGet]
         public ActionResult<List<Wine>> GetAllWines()
         {
@@ -32,7 +30,6 @@ namespace BodegaDeVinosProyect.Controller
             return Ok(wines);
         }
 
-        // Endpoint para obtener un vino por ID (opcional)
         [HttpGet("{id}")]
         public ActionResult<Wine> GetWineById(int id)
         {
