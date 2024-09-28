@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Controller",
     "\\Entities",
     "\\Repository",
     "\\Services"
   ],
+  "SelectedNode": "\\BodegaDeVinosProyect.csproj.user",
   "PreviewInSolutionExplorer": false
 }

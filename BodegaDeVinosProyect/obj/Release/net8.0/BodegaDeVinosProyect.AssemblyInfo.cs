@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BodegaDeVinosProyect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b47a767895eab0e289ee8fa069139e0013fbcde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4dc9ea8514db9e5843283defe02fd221058e9bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("BodegaDeVinosProyect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BodegaDeVinosProyect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

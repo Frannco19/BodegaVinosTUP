@@ -1,6 +1,7 @@
-﻿using BodegaDeVinosProyect.Entities;
-using BodegaDeVinosProyect.Services;
+﻿using Data.Entities;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Service;
 
 namespace BodegaDeVinosProyect.Controller
 {

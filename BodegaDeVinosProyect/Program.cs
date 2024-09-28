@@ -1,4 +1,6 @@
-using BodegaDeVinosProyect.Services;
+using Data;
+using Data.Repository;
+using Service;
 
 var builder = WebApplication.CreateBuilder(args);
 

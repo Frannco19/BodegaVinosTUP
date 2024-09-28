@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "BodegaDeVinosProyect.Entities.User",
+        "Type": "Data.Entities.User",
         "IsRequired": true
       }
     ],
@@ -31,7 +31,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "BodegaDeVinosProyect.Entities.User",
+        "Type": "Data.Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -51,7 +51,7 @@
     "Parameters": [
       {
         "Name": "wine",
-        "Type": "BodegaDeVinosProyect.Entities.Wine",
+        "Type": "Data.Entities.Wine",
         "IsRequired": true
       }
     ],
@@ -67,7 +67,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[BodegaDeVinosProyect.Entities.Wine, BodegaDeVinosProyect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[Data.Entities.Wine, Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -93,7 +93,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "BodegaDeVinosProyect.Entities.Wine",
+        "Type": "Data.Entities.Wine",
         "MediaTypes": [
           "text/plain",
           "application/json",

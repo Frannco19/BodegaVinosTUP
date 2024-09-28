@@ -31,3 +31,7 @@ C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\obj\Debug\net8.0
 C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\obj\Debug\net8.0\BodegaDeVinosProyect.pdb
 C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\obj\Debug\net8.0\BodegaDeVinosProyect.genruntimeconfig.cache
 C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\obj\Debug\net8.0\ref\BodegaDeVinosProyect.dll
+C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\bin\Debug\net8.0\Data.dll
+C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\bin\Debug\net8.0\Service.dll
+C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\bin\Debug\net8.0\Service.pdb
+C:\Users\acuqu\source\repos\BodegaVinosTUP\BodegaDeVinosProyect\bin\Debug\net8.0\Data.pdb
